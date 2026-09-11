@@ -1,0 +1,4 @@
+# Custom 404 page (equivalent to the old IIS Web.config httpErrors mapping).
+# Works as-is on Cloudflare Pages and Netlify. If Vercel is chosen instead,
+# this file is ignored there — use a vercel.json rewrite for the same effect.
+/*  /404.html  404
